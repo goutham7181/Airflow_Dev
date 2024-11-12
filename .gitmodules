@@ -1,0 +1,6 @@
+[submodule "dev"]
+	path = dev
+	url = https://github.com/goutham7181/Airflow_Dev1.git
+[submodule "deve"]
+	path = deve
+	url = https://github.com/goutham7181/Airflow_Dev2.git
